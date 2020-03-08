@@ -5,7 +5,7 @@
 [Dash RPC API](https://docs.dash.org/en/stable/wallets/dashcore/cmd-rpc.html)
 
 ## Dash Explorer
-[cryptoid.info dash](https://chainz.cryptoid.info/dash/)
+[cryptoid.info dash](https://chainz.cryptoid.info/dash/)  
 [blockcypher.com dash](https://live.blockcypher.com/dash/)
 
 ## Build method
